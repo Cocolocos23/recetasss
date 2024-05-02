@@ -7,4 +7,4 @@
 
 <p>Si preferís otro tipo de formato, también tenemos Instagram, dónde estaremos publicando con más frecuencia: <a href="https://www.instagram.com/cocolocos_23/?utm_source=ig_web_button_share_sheet">cocolocos</a></p>
 <img height="400px" src="https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2023/04/03/mesa-llena-de-comida-arabe.jpeg"/>
-<p>Nuestra página está disponible en el siguiente enlace: </p>
+<p>Nuestra página está disponible en el siguiente enlace: https://cocolocos23.github.io/recetasss/</p>
