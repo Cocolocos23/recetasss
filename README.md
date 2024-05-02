@@ -1,4 +1,4 @@
-# recetasss
+# Recetas caseras
 <h1>¡Hola amantes de la comida!👋</h1>
 
 <p>Bienvenidos, si estais aquí seguro que es porque estáis enamorados de la BUENA comida... ¡cómo nosotros! En este blog, estaremos publicando entradas sobre nuestros platos favoritos de diferentes países alrededor del mundo, además de contar datos interesantes sobre dichos países.
